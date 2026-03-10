@@ -24,10 +24,10 @@ jobs:
         run: npm install
 
       - name: Validar ESLint
-        [cite_start]run: npm run lint # [cite: 48]
+        [cite_start]run: npm run lint
 
       - name: Executar Testes Automatizados
-        [cite_start]run: npm test # [cite: 47]
+        [cite_start]run: npm test
 
       - name: Gerar Build de Produção
-        [cite_start]run: npm run build # [cite: 49]
+        [cite_start]run: npm run build
