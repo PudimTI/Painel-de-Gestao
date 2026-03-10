@@ -34,7 +34,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 1. **Clone o repositório:**
 
 ```
-git clone https://github.com/
+git clone https://github.com/PudimTI/Painel-de-Gestao.git
 ```
 
 2. **Acesse o diretório:**
