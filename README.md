@@ -76,8 +76,30 @@ npm run test:coverage
 ## Links
 
 - **API Utilizada:** https://jsonplaceholder.typicode.com/users
-- **Storybook:** 
+- **Storybook:**
+
+```
+npm run storybook
+```
 
 ## Prints
+
+### Pagina principal - Listagem de Usuario
+<img width="1278" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1f76478-5586-4aa2-a7b6-8769d1af0d11" />
+
+### Light Theme aplicado
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a077b95-ab10-4f36-8f17-f8e0ebb3233b" />
+
+### Formulario de Criação de Usuario
+<img width="1261" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6665b25-a620-4baf-ab99-2aff91074b9b" />
+
+### Formulario de Edição
+<img width="1261" height="1024" alt="image" src="https://github.com/user-attachments/assets/087a2c21-4454-412f-b79d-931ebb96af8f" />
+
+### Modal confirmação de exclusão
+<img width="1278" height="1024" alt="image" src="https://github.com/user-attachments/assets/62c93154-9e7f-4641-806a-871826caea3d" />
+
+### Testes
+<img width="257" height="109" alt="image" src="https://github.com/user-attachments/assets/4372990d-8209-40fe-b89a-904920ddac66" />
 
 
